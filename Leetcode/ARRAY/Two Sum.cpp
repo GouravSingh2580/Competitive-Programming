@@ -1,9 +1,6 @@
 /*
 Runtime: 564 ms, faster than 10.10% of C++ online submissions for Two Sum.
 Memory Usage: 7 MB, less than 100.00% of C++ online submissions for Two Sum.
-
-
-AC in 7th Try
 */
 
 
