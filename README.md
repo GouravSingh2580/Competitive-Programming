@@ -1,8 +1,10 @@
-# #Competitive Programming 🌟
+# Competitive Programming 🌟
 
-### Topics in the Repo
+## Topics in the Repo
 
-- `Advanced Graphs`
+- ## `Advanced Graphs`
+  ![Graphs](https://media.geeksforgeeks.org/wp-content/cdn-uploads/undirectedgraph.png)
+  
   - Airport2.cpp
   - Airportwrong.cpp
   - Bottom.cpp
@@ -16,14 +18,18 @@
   - Test.txt
   - a.out
   
-- `Assignment1`
+- ## `Assignment1`
+  ![Assignment](https://static1.squarespace.com/static/543d9b11e4b0847bb28295dc/t/55371738e4b0cda0deaebec3/1587394842454/)
+  
   - Collecting the balls.cpp
   - Power.cpp
   - Sortingskills.cpp
   - Test.txt
   - a.out
 
-- `Backtracking`
+- ## `Backtracking`
+  ![backtracking](https://miro.medium.com/max/527/1*Pfj_YTlS5xc9xoIb1cDzUA.jpeg)
+  
   - Crossword.cpp
   - Fillthematrix.cpp
   - Nqueens.cpp
@@ -32,10 +38,14 @@
   - a.out
   - check.cpp
  
-- `Bit Manipulation`
+- ## `Bit Manipulation`
+  ![bitman](https://lh3.googleusercontent.com/proxy/J38QtXN512XuzSG8tKHL9km2MGzKYebd0VT9qHe7vOoDya5OfYswyP1xX_JMx5rI8W0dAzM-YYe5gQgxJer_ApL_PvbxdI5ADOoZYBxGnpGg-YwbjqzQfsT21idOH0r9BEgtyd52QkxP)
+  
   - Unset.cpp
   
-- `DP1(Very important)`
+- ## `DP1(Very important)`
+  ![DP](https://he-s3.s3.amazonaws.com/media/uploads/6b68f98.png)
+  
   - Adjacentbit
   - Adjacentbit.cpp
   - Allzeroes
