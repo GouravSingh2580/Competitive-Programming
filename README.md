@@ -1,39 +1,62 @@
 # #Competitive Programming 🌟
 
-| #S.No. | #Topics: |
-| --- | --- |
-| 1. | Algo |
-| 1.1 | Search |
-| 1.2 | Binary Search |
-| 1.3 | Sort |
-| 1.5 | Merge Sort |
-| 1.6 | Quick Sort |
-| 2 | Graph Theory |
-| 2.1 | BFS/DFS |
-| 2.2 | Shortest Part |
-| 2.3 | Articulation Point |
-| 2.4 | Max/Min Flow |
-| 3 | Strings |
-| 3.1 | String matching using KMP also. |
-| 3.2 | Refer all the three algorithms related to string matching. |
-| 4. | Greedy |
-| 5. | Constructive Algorithm |
-| 6. | Merge Sort logic |
-| 7. | Two pointers |
-| 8. | Backtracking |
-| 9. | Dynamic Programming |
-| 9.1 | Down - Up |
-| 9.2 | Up -Down |
-| 9.3 | Solve famous dynamic programming questions also(10-12) |
-| 9.4 | Bit Manipulation |
-| 9.5 | Game Theory |
-| 9.6 | Number Theory |
-| 10. | Data Structure |
-| 10.1 | Link list |
-| 10.2| Stack |
-| 10.3 | Queue |
-| 10.4 | Tree |
-| 10.5 | Segment Tree |
-| 10.6 | Heap and maps |
-| 10.7 | Disjoint Set Union |
-| 10.8| Trie |
+### Topics in the Repo
+
+- `Advanced Graphs`
+  - Airport2.cpp
+  - Airportwrong.cpp
+  - Bottom.cpp
+  - Connectedhorses.cpp
+  - Dominos.cpp
+  - Kingdom.cpp
+  - Matrix.cpp
+  - Monk.cpp
+  - Newyear.cpp
+  - Permutationsswap.cpp
+  - Test.txt
+  - a.out
+  
+- `Assignment1`
+  - Collecting the balls.cpp
+  - Power.cpp
+  - Sortingskills.cpp
+  - Test.txt
+  - a.out
+
+- `Backtracking`
+  - Crossword.cpp
+  - Fillthematrix.cpp
+  - Nqueens.cpp
+  - Rateinamaze.cpp
+  - Test.txt
+  - a.out
+  - check.cpp
+ 
+- `Bit Manipulation`
+  - Unset.cpp
+  
+- `DP1(Very important)`
+  - Adjacentbit
+  - Adjacentbit.cpp
+  - Allzeroes
+  - Allzeroes.cpp
+  - AlphaCode-Question.cpp
+  - Boredom.cpp
+  - Hasanandtrip.cpp
+  - Loot.cpp
+  - Maximumsum.cpp
+  - Mergegrid.cpp
+  - Royandcoin.cpp
+  - Test.txt
+  - Vanya and gcd
+  - Vanya and gcd.cpp
+  - a.out
+  - angrychildren
+  - angrychildren.cpp
+  - coinchange.cpp
+  - jonsnow.cpp
+  - longestbitonicsubarray.cpp
+  - minchoc.cpp
+  - mincount.cpp
+  - spreadsheet.cpp
+  - staircase.cpp
