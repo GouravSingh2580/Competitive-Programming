@@ -1,0 +1,20 @@
+double eps = 1e-6;
+int limit = 0;
+
+// good function checks whether the searching value is valid or not.
+
+bool good(double m) {
+    // implement the standard good func;
+    // m is the value you are searching for
+}
+
+double f() {
+    double l = 0, r = limit;
+    double ans = l;
+    for(int i=0;i<200 && l+eps <= r;i++) {
+        double mid = (l+r)/2;
+        if(good(mid)) ans = mid, // r = mid or l = mid;
+        else // l = mid or r = mid;
+    }
+    return ans;
+}
