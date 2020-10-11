@@ -39,7 +39,7 @@
   - check.cpp
  
 - ## `Bit Manipulation`
-  ![bitman](https://lh3.googleusercontent.com/proxy/J38QtXN512XuzSG8tKHL9km2MGzKYebd0VT9qHe7vOoDya5OfYswyP1xX_JMx5rI8W0dAzM-YYe5gQgxJer_ApL_PvbxdI5ADOoZYBxGnpGg-YwbjqzQfsT21idOH0r9BEgtyd52QkxP)
+  ![bitman](https://res.cloudinary.com/practicaldev/image/fetch/s--jfgRqPT7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://storage.googleapis.com/algodailyrandomassets/curriculum/advanced-topics/bit-manipulation-1.png)
   
   - Unset.cpp
   
