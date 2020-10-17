@@ -39,7 +39,7 @@
   - check.cpp
  
 - ## `Bit Manipulation`
-  ![bitman](https://lh3.googleusercontent.com/proxy/J38QtXN512XuzSG8tKHL9km2MGzKYebd0VT9qHe7vOoDya5OfYswyP1xX_JMx5rI8W0dAzM-YYe5gQgxJer_ApL_PvbxdI5ADOoZYBxGnpGg-YwbjqzQfsT21idOH0r9BEgtyd52QkxP)
+  ![bitman](https://he-s3.s3.amazonaws.com/media/uploads/3fb910b.jpg)
   
   - Unset.cpp
   
